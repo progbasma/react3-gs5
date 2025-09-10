@@ -2,7 +2,7 @@ import React from 'react'
 
 function Footerc() {
   return (
-    <div>Footerc</div>
+    <div>Footer basma</div>
   )
 }
 
